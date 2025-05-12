@@ -19,7 +19,7 @@ A full-stack web application developed for the Brăila City Hall in partnership 
 ## 🧠 Word Clash — Cross-Platform Semantic Word Game  
 **Frontend:** [github.com/ionescuaandrei/word-clash](https://github.com/ionescuaandrei/word-clash)  
 **Backend:** [github.com/Alexandrudiun/serverPID](https://github.com/Alexandrudiun/serverPID)
-**Presentation** [https://docs.google.com/presentation/d/1UuGqHXzN_mCVHcMgGQnsmPid4-BsFXDNiwr5hGoy5hg/edit#slide=id.p](https://docs.google.com/presentation/d/1UuGqHXzN_mCVHcMgGQnsmPid4-BsFXDNiwr5hGoy5hg/edit#slide=id.p)
+**Presentation:** [https://docs.google.com/presentation/d/1UuGqHXzN_mCVHcMgGQnsmPid4-BsFXDNiwr5hGoy5hg/edit#slide=id.p](https://docs.google.com/presentation/d/1UuGqHXzN_mCVHcMgGQnsmPid4-BsFXDNiwr5hGoy5hg/edit#slide=id.p)
 
 **Tech Stack:**  
 - **Frontend:** React Native (iOS/Android/Web), Expo  
